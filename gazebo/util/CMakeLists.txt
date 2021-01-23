@@ -80,6 +80,7 @@ target_link_libraries(gazebo_util
   gazebo_common
   gazebo_transport
   gazebo_msgs
+  openal
   ${tinyxml2_LIBRARIES}
   ${IGNITION-TRANSPORT_LIBRARIES}
   ${IGNITION-MSGS_LIBRARIES}
